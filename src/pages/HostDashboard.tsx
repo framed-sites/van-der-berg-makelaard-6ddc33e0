@@ -73,7 +73,7 @@ function CtaSection2() {
 
 export default function HostDashboardPage() {
   useEffect(() => {
-    document.title = 'Makelaar Dashboard | Van der Berg Makelaardij'
+    document.title = 'Verhuur Dashboard | Van der Berg Makelaardij'
   }, [])
 
   return (

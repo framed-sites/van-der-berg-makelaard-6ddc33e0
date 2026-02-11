@@ -49,7 +49,7 @@ export default function App() {
         <Route path="/mijn-account" element={<AccountPage />} />
         <Route path="/bestellingen" element={<OrdersPage />} />
         <Route path="/kaart" element={<MapViewPage />} />
-        <Route path="/makelaar-dashboard" element={<HostDashboardPage />} />
+        <Route path="/verhuur-dashboard" element={<HostDashboardPage />} />
         <Route path="/beoordelingen" element={<ReviewsPage />} />
       </Route>
     </Routes>

@@ -17,6 +17,7 @@ export default function Footer() {
           <nav className="flex items-center gap-4">
             <Link to="/contact" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Contact</Link>
             <Link to="/veelgestelde-vragen" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Veelgestelde Vragen</Link>
+            <Link to="/ons-team" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Ons Team</Link>
             <Link to="/vacatures" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Vacatures</Link>
             <Link to="/privacybeleid" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Privacybeleid</Link>
             <Link to="/algemene-voorwaarden" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Algemene Voorwaarden</Link>
