@@ -40,7 +40,7 @@ function ContentSection1() {
         <div className="space-y-6">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">Content</h2>
           <div className="prose prose-gray max-w-none text-muted-foreground space-y-4">
-            <p>Met ons verkoopdashboard heeft u 24/7 inzicht in de voortgang van uw woningverkoop. Bekijk statistieken van bezichtigingen, volg biedingen in real-time en communiceer direct met uw makelaar. Upload documenten en volg het gehele verkooptraject tot en met de overdracht bij de notaris. Transparantie en controle staan centraal. U ontvangt automatische notificaties bij nieuwe biedingen of vragen van potentiële kopers, zodat u nooit een belangrijk moment mist.</p>
+            <p></p>
           </div>
 
         </div>
@@ -73,7 +73,7 @@ function CtaSection2() {
 
 export default function HostDashboardPage() {
   useEffect(() => {
-    document.title = 'Verhuurdersdashboard | Van der Berg Makelaardij'
+    document.title = 'Makelaar Dashboard | Van der Berg Makelaardij'
   }, [])
 
   return (

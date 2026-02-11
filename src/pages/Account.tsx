@@ -40,7 +40,7 @@ function ContentSection1() {
         <div className="space-y-6">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">Content</h2>
           <div className="prose prose-gray max-w-none text-muted-foreground space-y-4">
-            <p>Vanuit uw persoonlijke dashboard heeft u overzicht over al uw activiteiten. Bekijk uw opgeslagen woningen, controleer de status van lopende aanvragen en pas uw zoekvoorkeuren aan. Wij houden u op de hoogte van relevant nieuws en aanbod dat perfect bij uw profiel past. Uw privacy staat voorop: alle gegevens worden versleuteld opgeslagen en zijn alleen voor u toegankelijk. Daarnaast kunt u hier uw communicatievoorkeuren instellen en uw zoekcriteria aanpassen.</p>
+            <p></p>
           </div>
 
         </div>

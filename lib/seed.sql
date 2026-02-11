@@ -37,15 +37,6 @@ VALUES
   ()
 ON CONFLICT DO NOTHING;
 
-INSERT INTO users ()
-VALUES
-  (),
-  (),
-  (),
-  (),
-  ()
-ON CONFLICT DO NOTHING;
-
 INSERT INTO valuationrequests ()
 VALUES
   (),
@@ -56,24 +47,6 @@ VALUES
 ON CONFLICT DO NOTHING;
 
 INSERT INTO contactmessages ()
-VALUES
-  (),
-  (),
-  (),
-  (),
-  ()
-ON CONFLICT DO NOTHING;
-
-INSERT INTO viewingappointments ()
-VALUES
-  (),
-  (),
-  (),
-  (),
-  ()
-ON CONFLICT DO NOTHING;
-
-INSERT INTO propertyalerts ()
 VALUES
   (),
   (),

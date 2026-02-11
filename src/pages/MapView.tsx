@@ -40,7 +40,7 @@ function ContentSection1() {
         <div className="space-y-6">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">Content</h2>
           <div className="prose prose-gray max-w-none text-muted-foreground space-y-4">
-            <p>Gebruik onze interactieve kaart om woningen te vinden op de locatie die u wenst. Zoom in op specifieke buurten, filter op prijsklasse of woningtype en bekijk direct de beschikbaarheid. Klik op een marker voor foto&#39;s en basisinformatie. U kunt ook een zoekgebied tekenen om alleen woningen binnen dat gebied te zien. De kaart toont tevens voorzieningen in de buurt zoals scholen, winkels en openbaar vervoer, zodat u een compleet beeld krijgt van de woonomgeving.</p>
+            <p></p>
           </div>
 
         </div>
@@ -73,7 +73,7 @@ function CtaSection2() {
 
 export default function MapViewPage() {
   useEffect(() => {
-    document.title = 'Kaartweergave | Van der Berg Makelaardij'
+    document.title = 'Kaart | Van der Berg Makelaardij'
   }, [])
 
   return (

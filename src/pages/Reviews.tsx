@@ -30,14 +30,14 @@ function TestimonialsSection1() {
           <Card className="bg-card shadow-sm">
             <CardContent className="pt-6 space-y-4">
               <div className="text-4xl text-primary/20 font-serif leading-none">&ldquo;</div>
-              <p className="text-muted-foreground italic -mt-2">Van der Berg heeft ons fantastisch geholpen bij de aankoop van onze eerste woning. Ze denken echt met je mee en zijn altijd bereikbaar voor vragen, zelfs in de avonduren.</p>
+              <p className="text-muted-foreground italic -mt-2">Uitstekende service en professionaliteit. Zeer tevreden!</p>
               <div className="flex items-center gap-3 pt-2 border-t border-border">
                 <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary font-semibold text-sm">
-                  F
+                  A
                 </div>
                 <div>
-                  <p className="font-semibold text-sm text-foreground">Familie Jansen</p>
-                  <p className="text-xs text-muted-foreground">Kopers, Amsterdam</p>
+                  <p className="font-semibold text-sm text-foreground">Anna de Jong</p>
+                  <p className="text-xs text-muted-foreground">Klant</p>
                 </div>
               </div>
             </CardContent>
@@ -45,14 +45,14 @@ function TestimonialsSection1() {
           <Card className="bg-card shadow-sm">
             <CardContent className="pt-6 space-y-4">
               <div className="text-4xl text-primary/20 font-serif leading-none">&ldquo;</div>
-              <p className="text-muted-foreground italic -mt-2">Professioneel, betrokken en resultaatgericht. Onze woning was binnen twee weken verkocht boven de vraagprijs. De fotoreportage en presentatie waren van topkwaliteit. Een absolute aanrader!</p>
+              <p className="text-muted-foreground italic -mt-2">Snelle communicatie en geweldig resultaat. Aanrader!</p>
               <div className="flex items-center gap-3 pt-2 border-t border-border">
                 <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary font-semibold text-sm">
                   P
                 </div>
                 <div>
-                  <p className="font-semibold text-sm text-foreground">Peter de Vries</p>
-                  <p className="text-xs text-muted-foreground">Verkoper, Rotterdam</p>
+                  <p className="font-semibold text-sm text-foreground">Peter van Dijk</p>
+                  <p className="text-xs text-muted-foreground">Klant</p>
                 </div>
               </div>
             </CardContent>
@@ -60,14 +60,14 @@ function TestimonialsSection1() {
           <Card className="bg-card shadow-sm">
             <CardContent className="pt-6 space-y-4">
               <div className="text-4xl text-primary/20 font-serif leading-none">&ldquo;</div>
-              <p className="text-muted-foreground italic -mt-2">De makelaar kende de buurt als geen ander en gaf ons waardevolle adviezen over de verbouwing en de mogelijkheden van de woning. Service staat hier echt voorop.</p>
+              <p className="text-muted-foreground italic -mt-2">Fantastische ervaring van begin tot eind.</p>
               <div className="flex items-center gap-3 pt-2 border-t border-border">
                 <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary font-semibold text-sm">
                   M
                 </div>
                 <div>
-                  <p className="font-semibold text-sm text-foreground">Maria van Dijk</p>
-                  <p className="text-xs text-muted-foreground">Koper, Utrecht</p>
+                  <p className="font-semibold text-sm text-foreground">Maria Visser</p>
+                  <p className="text-xs text-muted-foreground">Klant</p>
                 </div>
               </div>
             </CardContent>
@@ -96,7 +96,7 @@ function CtaSection2() {
 
 export default function ReviewsPage() {
   useEffect(() => {
-    document.title = 'Recensies | Van der Berg Makelaardij'
+    document.title = 'Beoordelingen | Van der Berg Makelaardij'
   }, [])
 
   return (

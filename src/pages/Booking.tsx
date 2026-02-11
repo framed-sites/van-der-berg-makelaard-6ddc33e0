@@ -40,7 +40,7 @@ function ContentSection1() {
         <div className="space-y-6">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">Content</h2>
           <div className="prose prose-gray max-w-none text-muted-foreground space-y-4">
-            <p>Het plannen van een bezichtiging is eenvoudig en volledig vrijblijvend. Selecteer uw voorkeursdatum en tijdstip in de kalender. Onze makelaar neemt binnen 24 uur contact met u op om de afspraak te bevestigen en eventuele vragen te beantwoorden. Tijdens de bezichtiging nemen we ruim de tijd om de woning te laten zien en alle technische details te bespreken. Heeft u specifieke wensen voor het tijdstip? Neem dan telefonisch contact met ons op.</p>
+            <p></p>
           </div>
 
         </div>
@@ -73,7 +73,7 @@ function CtaSection2() {
 
 export default function BookingPage() {
   useEffect(() => {
-    document.title = 'Afspraak Maken | Van der Berg Makelaardij'
+    document.title = 'Afspraak | Van der Berg Makelaardij'
   }, [])
 
   return (

@@ -40,7 +40,7 @@ function ContentSection1() {
         <div className="space-y-6">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">Content</h2>
           <div className="prose prose-gray max-w-none text-muted-foreground space-y-4">
-            <p>Deze karakteristieke woning uit 1920 is volledig gerenoveerd met behoud van originele details zoals paneeldeuren, glas-in-lood ramen en een marmeren schouw. De begane grond beschikt over een ruime woonkamer van 45m² met erker, een moderne open keuken voorzien van inbouwapparatuur en openslaande deuren naar de zonnige achtertuin van 80m². Op de eerste verdieping bevinden zich drie slaapkamers en een luxe badkamer met regendouche en vrijstaand bad. De zolderverdieping biedt mogelijkheid voor een vierde slaapkamer of thuiswerkplek.</p>
+            <p></p>
           </div>
 
         </div>

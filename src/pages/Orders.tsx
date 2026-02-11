@@ -40,7 +40,7 @@ function ContentSection1() {
         <div className="space-y-6">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">Content</h2>
           <div className="prose prose-gray max-w-none text-muted-foreground space-y-4">
-            <p>Hier vindt u een compleet overzicht van al uw bezichtigingen. Controleer de datum, tijd en locatie van komende afspraken of bekijk de details van eerder bezochte woningen. Heeft u een afspraak gepland maar kunt u niet komen? U kunt tot 24 uur van tevoren kosteloos annuleren of verplaatsen via uw account of telefonisch. Na elke bezichtiging ontvangt u een uitgebreide terugkoppeling met aanvullende informatie over de woning en de buurt.</p>
+            <p></p>
           </div>
 
         </div>
@@ -73,7 +73,7 @@ function CtaSection2() {
 
 export default function OrdersPage() {
   useEffect(() => {
-    document.title = 'Mijn Opdrachten | Van der Berg Makelaardij'
+    document.title = 'Bestellingen | Van der Berg Makelaardij'
   }, [])
 
   return (

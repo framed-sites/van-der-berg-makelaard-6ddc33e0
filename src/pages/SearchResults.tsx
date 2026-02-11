@@ -40,7 +40,7 @@ function ContentSection1() {
         <div className="space-y-6">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">Content</h2>
           <div className="prose prose-gray max-w-none text-muted-foreground space-y-4">
-            <p>Met meer dan 20 jaar ervaring in de Nederlandse vastgoedmarkt kennen wij elke buurt, elke straat en elk pand. Wij begeleiden u persoonlijk bij elke stap van het koopproces, van de eerste bezichtiging tot het moment dat u de sleutel krijgt overhandigd. Onze makelaars staan bekend om hun marktkennis, transparante communicatie en scherpe onderhandelingsvaardigheden. Wij werken uitsluitend met kwalitatief hoogwaardig aanbod en screenen elk pand grondig voordat wij het aan u presenteren.</p>
+            <p></p>
           </div>
 
         </div>

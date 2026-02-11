@@ -17,9 +17,9 @@ export default function Header() {
           <Link to="/" className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Home</Link>
           <Link to="/woningaanbod" className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Woningaanbod</Link>
           <Link to="/wijken-in-delft" className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Wijken in Delft</Link>
-          <Link to="/gratis-waardebepaling" className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Gratis Waardebepaling</Link>
-          <Link to="/over-ons" className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Over Ons</Link>
           <Link to="/diensten" className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Diensten</Link>
+          <Link to="/over-ons" className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Over Ons</Link>
+          <Link to="/actueel" className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Actueel</Link>
           <Link to="/contact" className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Contact</Link>
           <LanguageSwitcher />
         </nav>
@@ -39,9 +39,9 @@ export default function Header() {
               <Link to="/" className="block px-3 py-2 text-base font-medium text-foreground/80 hover:text-primary transition-colors">Home</Link>
               <Link to="/woningaanbod" className="block px-3 py-2 text-base font-medium text-foreground/80 hover:text-primary transition-colors">Woningaanbod</Link>
               <Link to="/wijken-in-delft" className="block px-3 py-2 text-base font-medium text-foreground/80 hover:text-primary transition-colors">Wijken in Delft</Link>
-              <Link to="/gratis-waardebepaling" className="block px-3 py-2 text-base font-medium text-foreground/80 hover:text-primary transition-colors">Gratis Waardebepaling</Link>
-              <Link to="/over-ons" className="block px-3 py-2 text-base font-medium text-foreground/80 hover:text-primary transition-colors">Over Ons</Link>
               <Link to="/diensten" className="block px-3 py-2 text-base font-medium text-foreground/80 hover:text-primary transition-colors">Diensten</Link>
+              <Link to="/over-ons" className="block px-3 py-2 text-base font-medium text-foreground/80 hover:text-primary transition-colors">Over Ons</Link>
+              <Link to="/actueel" className="block px-3 py-2 text-base font-medium text-foreground/80 hover:text-primary transition-colors">Actueel</Link>
               <Link to="/contact" className="block px-3 py-2 text-base font-medium text-foreground/80 hover:text-primary transition-colors">Contact</Link>
               <div className="pt-4 border-t border-border">
                 <LanguageSwitcher />

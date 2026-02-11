@@ -40,7 +40,7 @@ function ContentSection1() {
         <div className="space-y-6">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">Content</h2>
           <div className="prose prose-gray max-w-none text-muted-foreground space-y-4">
-            <p>Met een persoonlijk account bij Van der Berg Makelaardij houdt u eenvoudig uw favoriete woningen bij, slaat u zoekcriteria op en ontvangt u automatisch een e-mailalert wanneer nieuw aanbod beschikbaar komt dat aan uw wensen voldoet. Daarnaast kunt u eenvoudig bezichtigingen inplannen en direct contact opnemen met onze makelaars. Uw gegevens worden veilig opgeslagen en zijn alleen voor u toegankelijk.</p>
+            <p></p>
           </div>
 
         </div>
